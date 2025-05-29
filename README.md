@@ -54,36 +54,4 @@ I believe in **honest advice**, **transparent planning**, and **long-term relati
 
 > "Helping you make smart, stress-free financial decisions."
 
-<!-- sip-calculator.html -->
-<!DOCTYPE html>
-<html>
-<head>
-  <title>SIP Calculator</title>
-</head>
-<body>
-  <h2>SIP Calculator</h2>
-  <label>Monthly Investment (₹):</label>
-  <input type="number" id="monthly" /><br /><br />
-  <label>Expected Annual Return (%):</label>
-  <input type="number" id="rate" /><br /><br />
-  <label>Investment Duration (Years):</label>
-  <input type="number" id="years" /><br /><br />
-  <button onclick="calculateSIP()">Calculate</button>
-
-  <h3 id="result"></h3>
-
-  <script>
-    function calculateSIP() {
-      const monthly = parseFloat(document.getElementById("monthly").value);
-      const rate = parseFloat(document.getElementById("rate").value) / 12 / 100;
-      const months = parseInt(document.getElementById("years").value) * 12;
-
-      const futureValue = monthly * ((Math.pow(1 + rate, months) - 1) * (1 + rate)) / rate;
-
-      document.getElementById("result").innerText =
-        "Estimated Value: ₹" + futureValue.toFixed(2);
-    }
-  </script>
-</body>
-</html>
 

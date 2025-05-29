@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham Jadhav
 
-🎯 **Insurance & Mutual Fund Consultant | Financial Guide | Serving 400+ Happy Families**
+🎯 Insurance & Mutual Fund Consultant | Financial Guide | Serving 400+ Happy Families
 
 📍 Based in Mumbai, India  
 📞 +91 8369744837  
@@ -10,7 +10,7 @@
 
 ## 🛡️ Services I Offer
 
-- ✅ **Insurance Advisory**  
+- ✅ Insurance Advisory**  
   - LIC, TATA AIA, ICICI Prudential, HDFC Life
   - Term plans, ULIPs, health & critical illness covers
   - Claims assistance, renewals & tax-saving guidance

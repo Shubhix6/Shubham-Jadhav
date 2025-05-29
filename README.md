@@ -1,5 +1,3 @@
-# Shubham-Jadhav
-My Financial Space
 # 👋 Hi, I'm Shubham Jadhav
 
 🎯 **Insurance & Mutual Fund Consultant | Financial Guide | Serving 400+ Happy Families**
@@ -45,7 +43,7 @@ I believe in **honest advice**, **transparent planning**, and **long-term relati
 
 ---
 
-## 📲 Let’s Connect!
+## 📲 Confused about where to invest? how much should be the insurance cover? Let’s Connect!
 
 - 📞 **Call or WhatsApp**: [+91 8369744837](https://wa.me/918369744837)
 - 📧 **Email**: [shubham1205jadhav@gmail.com](mailto:shubham1205jadhav@gmail.com)

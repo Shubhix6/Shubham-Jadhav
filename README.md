@@ -10,13 +10,13 @@
 
 ## 🛡️ Services I Offer
 
-- ✅ Insurance Advisory**  
-  - LIC, TATA AIA, ICICI Prudential, HDFC Life
+- ✅ **Insurance Advisory**  
+  - Associated with LIC, TATA AIA, ICICI Prudential, HDFC Life
   - Term plans, ULIPs, health & critical illness covers
   - Claims assistance, renewals & tax-saving guidance
 
 - 💰 **Mutual Fund Investment Planning**  
-  - SIPs, lumpsum investments
+  - All kinds of SIPs, lumpsum investments in Mutual Funds
   - Goal-based wealth creation
   - Regular portfolio reviews
 

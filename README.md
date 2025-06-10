@@ -43,7 +43,7 @@ I believe in **honest advice**, **transparent planning**, and **long-term relati
 
 ---
 
-## 📲 Confused about where to invest? how much should be the insurance cover? Let’s Connect!
+## 📲 Confused About Investments or Insurance? Let's Clear It Up – Connect Now!
 
 - 📞 **Call or WhatsApp**: [+91 8369744837](https://wa.me/918369744837)
 - 📧 **Email**: [shubham1205jadhav@gmail.com](mailto:shubham1205jadhav@gmail.com)

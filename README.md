@@ -11,19 +11,20 @@
 ## 🛡️ Services I Offer
 
 - ✅ **Insurance Advisory**  
-  - Associated with LIC, TATA AIA, ICICI Prudential, HDFC Life
-  - Term plans, ULIPs, health & critical illness covers
+  - Associated with LIC, TATA AIA, ICICI Prudential, HDFC Life for Life Insurances.
+  - Associated with HDFC ERGO, Manipal Cigna, Care Health, Star Health, TATA AIG for Health & other General Insurances.
+  - Plannning based on Term plans, ULIPs, health & critical illness covers
   - Claims assistance, renewals & tax-saving guidance
 
-- 💰 **Mutual Fund Investment Planning**  
+- 💰 **Investments Guidance & Planning**  
   - All kinds of SIPs, lumpsum investments in Mutual Funds
-  - Goal-based wealth creation
-  - Regular portfolio reviews
+  - Goal-based wealth creation using asset class mixtures.
+  - Regular portfolio reviews.
 
 - 📄 **Financial Assistance**  
   - Income Tax Return (ITR) Filing
   - Provident Fund (PF) Claims
-  - Financial documentation help
+  - Financial documentations help as and when required.
 
 ---
 
@@ -33,7 +34,7 @@
 - BMS (D. G. Ruparel College) – 81.28%
 - 📜 NISM Certified Mutual Fund Distributor (Series V)
 - 📜 NISM Equity Derivatives Certification (Series VIII)
-- 🧠 Currently pursuing: Data Analytics (Excel, SQL, Power BI, Tableau)
+- 🧠 Data Analytics (Excel, SQL, Power BI, Tableau)
 
 ---
 

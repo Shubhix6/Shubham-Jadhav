@@ -10,12 +10,31 @@
 
 ## 🛡️ Services I Offer
 
-- ✅ **Insurance Advisory**  
-  - Associated with LIC, TATA AIA, ICICI Prudential, HDFC Life for Life Insurances.
-  - Associated with HDFC ERGO, Manipal Cigna, Care Health, Star Health, TATA AIG for Health & other General Insurances.
-  - Plannning based on Term plans, ULIPs, health & critical illness covers
-  - Claims assistance, renewals & tax-saving guidance
+✅ Insurance Advisory
 
+Associated Companies:
+
+Life Insurance:
+
+-LIC
+-TATA AIA
+-ICICI Prudential
+-HDFC Life
+
+Health & General Insurance:
+
+-HDFC ERGO
+-Manipal Cigna
+-Care Health
+-Star Health
+-TATA AIG
+
+Services Offered:
+-Planning based on Term plans, ULIPs, health & critical illness covers
+-Claims assistance
+-Renewals
+
+Tax-saving guidance
 - 💰 **Investments Guidance & Planning**  
   - All kinds of SIPs, lumpsum investments in Mutual Funds
   - Goal-based wealth creation using asset class mixtures.
